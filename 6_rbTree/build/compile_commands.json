@@ -1,0 +1,17 @@
+[
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/6_rbTree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/RBTree.dir/includes_C.rsp -std=c11 -Wall -g -o CMakeFiles\\RBTree.dir\\src\\arrayqueue.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\6_rbTree\\src\\arrayqueue.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/arrayqueue.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/6_rbTree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/RBTree.dir/includes_C.rsp -std=c11 -Wall -g -o CMakeFiles\\RBTree.dir\\src\\main.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\6_rbTree\\src\\main.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/main.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/6_rbTree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/RBTree.dir/includes_C.rsp -std=c11 -Wall -g -o CMakeFiles\\RBTree.dir\\src\\rbtree.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\6_rbTree\\src\\rbtree.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/rbtree.c"
+}
+]

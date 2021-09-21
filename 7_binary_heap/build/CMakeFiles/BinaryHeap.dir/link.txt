@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\BinaryHeap.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\BinaryHeap.dir/objects.a @CMakeFiles\BinaryHeap.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\BinaryHeap.dir/objects.a -Wl,--no-whole-archive -o BinaryHeap.exe -Wl,--out-implib,libBinaryHeap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BinaryHeap.dir\linklibs.rsp

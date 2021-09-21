@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/arrayqueue.h
+stdbool.h
+-
+defineType.h
+../include/defineType.h
+
+../include/defineType.h
+
+../include/searchTree.h
+defineType.h
+../include/defineType.h
+
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/arrayqueue.c
+stdio.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdlib.h
+-
+arrayqueue.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/arrayqueue.h
+
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/main.c
+stdio.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdlib.h
+-
+arrayqueue.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/arrayqueue.h
+defineType.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/defineType.h
+searchTree.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/searchTree.h
+
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/searchTree.c
+stdio.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdlib.h
+-
+arrayqueue.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/arrayqueue.h
+searchTree.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/searchTree.h
+defineType.h
+E:/BookForWork/CODE---Data Structures in C/4_tree/src/defineType.h
+

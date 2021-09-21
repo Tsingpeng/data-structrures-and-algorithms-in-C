@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/8_hash_map/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/HashMap.dir/includes_C.rsp -g -o CMakeFiles\\HashMap.dir\\src\\main.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\8_hash_map\\src\\main.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/8_hash_map/src/main.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/8_hash_map/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/HashMap.dir/includes_C.rsp -g -o CMakeFiles\\HashMap.dir\\src\\utils.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\8_hash_map\\src\\utils.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/8_hash_map/src/utils.c"
+}
+]

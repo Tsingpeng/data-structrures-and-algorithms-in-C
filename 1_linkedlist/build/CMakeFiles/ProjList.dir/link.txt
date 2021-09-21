@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\ProjList.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\ProjList.dir/objects.a @CMakeFiles\ProjList.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ProjList.dir/objects.a -Wl,--no-whole-archive -o ProjList.exe -Wl,--out-implib,libProjList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProjList.dir\linklibs.rsp

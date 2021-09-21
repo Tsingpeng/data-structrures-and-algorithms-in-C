@@ -1,0 +1,17 @@
+[
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/4_tree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/Proj_tree.dir/includes_C.rsp -std=c1x  -g -o CMakeFiles\\Proj_tree.dir\\src\\arrayqueue.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\4_tree\\src\\arrayqueue.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/4_tree/src/arrayqueue.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/4_tree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/Proj_tree.dir/includes_C.rsp -std=c1x  -g -o CMakeFiles\\Proj_tree.dir\\src\\main.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\4_tree\\src\\main.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/4_tree/src/main.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/4_tree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/Proj_tree.dir/includes_C.rsp -std=c1x  -g -o CMakeFiles\\Proj_tree.dir\\src\\searchTree.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\4_tree\\src\\searchTree.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/4_tree/src/searchTree.c"
+}
+]

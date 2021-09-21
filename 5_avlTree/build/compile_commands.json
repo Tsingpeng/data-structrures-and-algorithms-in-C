@@ -1,0 +1,17 @@
+[
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/5_avlTree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/Proj_avlTree.dir/includes_C.rsp -g -o CMakeFiles\\Proj_avlTree.dir\\src\\arrayqueue.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\5_avlTree\\src\\arrayqueue.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/5_avlTree/src/arrayqueue.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/5_avlTree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/Proj_avlTree.dir/includes_C.rsp -g -o CMakeFiles\\Proj_avlTree.dir\\src\\avltree.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\5_avlTree\\src\\avltree.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/5_avlTree/src/avltree.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/5_avlTree/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/Proj_avlTree.dir/includes_C.rsp -g -o CMakeFiles\\Proj_avlTree.dir\\src\\main.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\5_avlTree\\src\\main.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/5_avlTree/src/main.c"
+}
+]

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/BookForWork/CODE---Data Structures in C/sortPart/main.c
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdbool.h
+-
+math.h
+-
+

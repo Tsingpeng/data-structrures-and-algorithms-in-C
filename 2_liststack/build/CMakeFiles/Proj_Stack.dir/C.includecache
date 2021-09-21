@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/BookForWork/CODE---Data Structures in C/liststack/main.c
+stdio.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdlib.h
+-
+

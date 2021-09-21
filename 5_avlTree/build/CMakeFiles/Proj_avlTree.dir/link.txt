@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Proj_avlTree.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Proj_avlTree.dir/objects.a @CMakeFiles\Proj_avlTree.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Proj_avlTree.dir/objects.a -Wl,--no-whole-archive -o Proj_avlTree.exe -Wl,--out-implib,libProj_avlTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proj_avlTree.dir\linklibs.rsp

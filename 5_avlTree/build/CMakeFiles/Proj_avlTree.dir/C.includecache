@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/arrayqueue.h
+stdbool.h
+-
+defineType.h
+../include/defineType.h
+
+../include/avltree.h
+defineType.h
+../include/defineType.h
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdbool.h
+-
+
+../include/defineType.h
+stddef.h
+-
+
+E:/BookForWork/CODE---Data Structures in C/5_avlTree/src/main.c
+stdio.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdlib.h
+-
+defineType.h
+-
+avltree.h
+E:/BookForWork/CODE---Data Structures in C/5_avlTree/src/avltree.h
+arrayqueue.h
+E:/BookForWork/CODE---Data Structures in C/5_avlTree/src/arrayqueue.h
+

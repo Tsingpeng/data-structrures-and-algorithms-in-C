@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/7_binary_heap/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/BinaryHeap.dir/includes_C.rsp -g -o CMakeFiles\\BinaryHeap.dir\\src\\bheap.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\7_binary_heap\\src\\bheap.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/7_binary_heap/src/bheap.c"
+},
+{
+  "directory": "E:/BookForWork/CODE---Data Structures in C/7_binary_heap/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/BinaryHeap.dir/includes_C.rsp -g -o CMakeFiles\\BinaryHeap.dir\\src\\main.c.obj -c \"E:\\BookForWork\\CODE---Data Structures in C\\7_binary_heap\\src\\main.c\"",
+  "file": "E:/BookForWork/CODE---Data Structures in C/7_binary_heap/src/main.c"
+}
+]

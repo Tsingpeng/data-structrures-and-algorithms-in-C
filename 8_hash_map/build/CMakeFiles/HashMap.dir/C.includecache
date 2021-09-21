@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+stddef.h
+-
+
+E:/BookForWork/CODE---Data Structures in C/8_hash_map/src/utils.c
+stdbool.h
+-
+utils.h
+E:/BookForWork/CODE---Data Structures in C/8_hash_map/src/utils.h
+

@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Proj_tree.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Proj_tree.dir/objects.a @CMakeFiles\Proj_tree.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -std=c1x  -g -Wl,--whole-archive CMakeFiles\Proj_tree.dir/objects.a -Wl,--no-whole-archive -o Proj_tree.exe -Wl,--out-implib,libProj_tree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proj_tree.dir\linklibs.rsp

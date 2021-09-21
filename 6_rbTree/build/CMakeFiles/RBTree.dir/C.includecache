@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/arrayqueue.h
+stdbool.h
+-
+defineType.h
+../include/defineType.h
+
+../include/defineType.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stddef.h
+-
+
+../include/rbtree.h
+defineType.h
+../include/defineType.h
+stdio.h
+-
+stddef.h
+-
+stdlib.h
+-
+limits.h
+-
+assert.h
+-
+
+E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/rbtree.c
+stdio.h
+-
+defineType.h
+E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/defineType.h
+arrayqueue.h
+E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/arrayqueue.h
+rbtree.h
+E:/BookForWork/CODE---Data Structures in C/6_rbTree/src/rbtree.h
+

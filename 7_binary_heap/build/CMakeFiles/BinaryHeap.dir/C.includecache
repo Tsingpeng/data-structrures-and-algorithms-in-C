@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bheap.h
+stdbool.h
+-
+defineType.h
+../include/defineType.h
+
+../include/defineType.h
+limits.h
+-
+
+E:/BookForWork/CODE---Data Structures in C/7_binary_heap/src/bheap.c
+stddef.h
+-
+assert.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+mem.h
+-
+defineType.h
+E:/BookForWork/CODE---Data Structures in C/7_binary_heap/src/defineType.h
+bheap.h
+E:/BookForWork/CODE---Data Structures in C/7_binary_heap/src/bheap.h
+
